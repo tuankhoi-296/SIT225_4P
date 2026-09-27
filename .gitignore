@@ -1,0 +1,13 @@
+# Python environment - large and machine-specific, rebuild from requirements.txt
+env/
+__pycache__/
+*.pyc
+
+# Local working material, not part of the submission
+evidence/
+*.bak
+
+# Documents - handed in through the LMS rather than tracked here
+*.pdf
+*.docx
+report.md
